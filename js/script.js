@@ -1,3 +1,5 @@
+alert('JS is working');
+
 // constant variables
 
 // state variables
