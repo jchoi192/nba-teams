@@ -29,13 +29,14 @@ main {
 }
 input, button{ 
     display: flex;
-    font-size: 30px;
-
+    font-size: 20px;
+    align-items: center;
 }
 
-aside {
-   
-}
+/* aside {
+   display: flex;
+
+} */
 
 .card {
     display: flex;
