@@ -14,7 +14,7 @@ A simple web app that allows you to check if there is an NBA team in a selected 
 
 
 ## Getting Started
-[Click Here](#) to get started
+[Click Here](https://jchoi192.github.io/nba-teams/) to get started
 
 ## Future Enhancements
 - Allow users to look up players by name
